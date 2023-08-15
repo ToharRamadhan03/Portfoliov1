@@ -1,0 +1,28 @@
+/* jumbotron */
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #0099ff;
+}
+/* Ahir Jumbotron */
+
+/* Projetcs */
+
+#projects {
+  background-color: #0099ff;
+}
+
+/* Ahir Projetcs */
+section {
+  padding-top: 5rem;
+}
+/* gallery */
+
+.gallery-img {
+  width: 100%;
+}
+
+#gallery .row > * {
+  padding: 0;
+}
+
+/* Ahir gallery */
